@@ -37,7 +37,12 @@ Cattle Information Intelligent Acquisition Device
 
 ---------------
 个体识别界面
+
 ![个体识别界面](https://github.com/XingshiXu/CAAID/blob/main/IDcow1.gif)
+
+-------------
+体尺测量界面
+![体尺界面]([https://github.com/XingshiXu/
 
 
 
