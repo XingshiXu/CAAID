@@ -14,8 +14,9 @@ Cattle Information Intelligent Acquisition Device
 ![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/Example%20image1.jpg)
 
 
-======
-目前已实现的功能：Y:yes N:no W:waiting to be extended  N\A: not applicable
+----------
+---------
+**目前已实现的功能**：Y:yes N:no W:waiting to be extended  N\A: not applicable
 | 功能       | 手动输入 | 自动识别 | 备注  |
 |:----------:|:-------:|:--------:|:-----:|
 | 牛只身份   |    Y    |    Y     |  N\A  |
@@ -29,7 +30,8 @@ Cattle Information Intelligent Acquisition Device
 | 跛行检测   |    W    |    W     |  N\A  |
 | 行为分析   |   N\A   |   N\A    |  N\A  |
 
-======
+---------
+---------
 
 主界面
 
