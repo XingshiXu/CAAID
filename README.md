@@ -10,27 +10,26 @@ Cattle Information Intelligent Acquisition Device
 - **远程监控与管理**：采集的数据可以通过网络传输至远程服务器，允许养殖场管理者随时随地监控牛只的情况，及时调整养殖策略和管理措施，提高养殖效率和利润。
 
 
+![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/Example%20image1.jpg)
+
+
 ======
 目前已实现的功能：Y:yes N:no W:waiting to be extended  N\A: not applicable
 | 功能       | 手动输入 | 自动识别 | 备注  |
 |:----------:|:-------:|:--------:|:-----:|
 | 牛只身份   |    Y    |    Y     |  N\A  |
-| 牛只计数   |    Y    |    W     |  N\A  |
+| 牛只计数   |    Y    |    Y     |  N\A  |
 | 清洁度评分 |    Y    |    N     |  N\A  |
-| 体尺测量   |    Y    |    Y     |  N\A  |
+| 体尺测量   |    Y    |    N     |  N\A  |
 | 体重预估   |    Y    |    N     |  N\A  |
 | 体况记录   |    Y    |    N     |  N\A  |
 | 用药记录   |    Y    |   N\A   |  N\A  |
-| 发情监测   |        N\A         |  N\A  |
+| 发情监测   |   N\A   |   N\A    |  N\A  |
 | 跛行检测   |    W    |    W     |  N\A  |
 | 行为分析   |   N\A   |   N\A    |  N\A  |
-
-
-
-
 ======
 
 
 目前我们的装置还处于开发阶段，一些功能并没有完成部署。我们将持续的更新这一repo，以展示这一产品的最新功能。同时我们的最新研究将在https://github.com/XingshiXu/HingsWorks中展示。
 
-Content will be continuously updated
+
