@@ -25,7 +25,7 @@ Cattle Information Intelligent Acquisition Device
 | 体重预估   |    Y    |    N     |  N\A  |
 | 体况记录   |    Y    |    N     |  N\A  |
 | 用药记录   |    Y    |   N\A   |  N\A  |
-| 发情监测   |   N\A   |    Y    | [Link]([https://github.com](https://github.com/XingshiXu/CAAID/blob/main/estrus.md)) |
+| 发情监测   |   N\A   |    Y    | [Link]([https://github.com/XingshiXu/CAAID/blob/main/estrus.md) |
 | 跛行检测   |    W    |    W     |  N\A  |
 | 行为分析   |   N\A   |   N\A    |  N\A  |
 ======
