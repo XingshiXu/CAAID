@@ -10,6 +10,7 @@ Cattle Information Intelligent Acquisition Device
 - **远程监控与管理**：采集的数据可以通过网络传输至远程服务器，允许养殖场管理者随时随地监控牛只的情况，及时调整养殖策略和管理措施，提高养殖效率和利润。
 
 
+如图1a该设备由Nvidia Jetson AGX Orin、摄像头(ZED 2i)、电源、显示屏以及其他多个辅助功能模块组成。如图1b，使用者可以轻松的通过如图2c所示的用户交互界面操作系统设备终端实现牛只各类信息的手动输入或自动测量以及进行信息查看。所有的记录信息能够通过MQTT穿透上传到服务器的数据库中。这些数据将有助于农民、兽医做出更加准确的决策。
 ![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/Example%20image1.jpg)
 
 
@@ -30,6 +31,6 @@ Cattle Information Intelligent Acquisition Device
 ======
 
 
-目前我们的装置还处于开发阶段，一些功能并没有完成部署。我们将持续的更新这一repo，以展示这一产品的最新功能。同时我们的最新研究将在https://github.com/XingshiXu/HingsWorks中展示。
+目前我们的装置还处于开发阶段，一些功能并没有完成部署。我们将持续的更新这一repo，以展示这一产品的最新功能。同时我们的最新研究将展示在https://github.com/XingshiXu/HingsWorks
 
 
