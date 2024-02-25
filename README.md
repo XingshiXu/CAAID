@@ -44,6 +44,10 @@ Cattle Information Intelligent Acquisition Device
 体尺测量界面
 ![体尺界面]([https://github.com/XingshiXu/
 
+---------
+
+
+
 
 
 目前我们的装置还处于开发阶段，一些功能并没有完成部署。我们将持续的更新这一repo，以展示这一产品的最新功能。同时我们的最新研究将展示在https://github.com/XingshiXu/HingsWorks
