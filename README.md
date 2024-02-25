@@ -11,10 +11,21 @@ Cattle Information Intelligent Acquisition Device
 
 
 ======
-目前已实现的功能：
-功能| 手动输入| 自动识别| 备注
-牛只身份| Y | Y | N\A
-牛只计数| Y | Y | N\A
+目前已实现的功能：Y:yes N:no W:waiting to be extended  N\A: not applicable
+| 功能       | 手动输入 | 自动识别 | 备注  |
+|------------|---------|----------|-------|
+| 牛只身份   | Y       | Y        | N\A   |
+| 牛只计数   | Y       | Y        | N\A   |
+| 清洁度评分 | Y       | N        | N\A   |
+| 体尺测量   | Y       | N        | N\A   |
+| 体重预估   | Y       | N        | N\A   |
+| 体况记录   | Y       | N        | N\A   |
+| 用药记录   | Y       | N\A     | N\A   |
+| 发情监测   | N\A     | N\A      | N\A   |
+| 跛行检测   | W       | W        | N\AW  |
+| 行为分析   | N\A     | N\A      | N\A   |
+
+
 
 ======
 
