@@ -31,7 +31,7 @@ Cattle Information Intelligent Acquisition Device
 ======
 
 主界面
-![主界面]([https://example.com/example.gif](https://github.com/XingshiXu/CAAID/blob/main/mainGUI.gif))
+![主界面](https://github.com/XingshiXu/CAAID/blob/main/mainGUI.gif)
 
 
 目前我们的装置还处于开发阶段，一些功能并没有完成部署。我们将持续的更新这一repo，以展示这一产品的最新功能。同时我们的最新研究将展示在https://github.com/XingshiXu/HingsWorks
