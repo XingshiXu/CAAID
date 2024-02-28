@@ -1,4 +1,4 @@
-# CAAID ![](https://img.shields.io/badge/contributor-XingshiXu-brightgreen.svg)  ![](https://img.shields.io/badge/contributor-XingshiXu-brightpink.svg)
+# CAAID ![](https://img.shields.io/badge/contributor-XingshiXu-brightgreen.svg)  ![](https://img.shields.io/badge/State-Updating-orange.svg)
 
 Cattle Information Intelligent Acquisition Device
 
