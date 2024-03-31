@@ -54,4 +54,7 @@ Cattle Information Intelligent Acquisition Device
 
 你好吖！目前我们的装置还处于开发阶段，一些功能并没有完成/部署/测试。我们将持续的更新这一repo，以展示这一产品的最新/更多功能。我们希望它能够一定程度的推动AI在畜牧业中的应用。同时我们的最新研究将展示在https://github.com/XingshiXu/HingsWorks
 
+-----
+在投论文：
+![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/%E7%89%9B%E8%84%B8%E8%AF%86%E5%88%AB_01.jpg)
 
