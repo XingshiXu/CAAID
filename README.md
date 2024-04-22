@@ -2,6 +2,8 @@
 
 Cattle Information Intelligent Acquisition Device
 
+(An English version is under construction)
+
 在精准养殖（PLF）的框架下，设计牛只信息智能采集装置具有重要意义。PLF注重数据驱动的决策和精准管理，而牛只各项信息的准确性、实时性和全面性对于养殖效率和健康管理至关重要。为此，该repo持续更新我们设计的背负式牛只信息智能采集装置(Cattle Information Intelligent Acquisition Device, CAAID)。我们认为它有以下几方面的优势：
 - **数据精准度和实时性**：智能采集装置可以在牛只的日常活动中实时采集数据，避免了手工记录可能带来的错误和延迟，确保了数据的精准性和实时性。
 - **综合信息采集**：装置可以同时采集多个方面的信息，如身份信息、体尺、体重、体况、清洁度、发情状况以及用药情况等，使得养殖管理者能够全面了解每头牛的状况，为精准决策提供数据支持。
