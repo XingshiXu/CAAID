@@ -60,4 +60,4 @@ u
 在投论文：
 ![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/%E7%89%9B%E8%84%B8%E8%AF%86%E5%88%AB_01.jpg)
 我们感谢编辑、审稿人以及潜在读者给予的帮助，祝工作开心，科研顺利，生活幸福！
-We thank the editors, reviewers and potential readers for their help. We wish you a happy work, a smooth scientific research and a happy life!
+We thank the editors, reviewers and potential readers for their help. Best wishes for you!
