@@ -60,6 +60,9 @@ u
 相关论文：  
 Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization  
 
-![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/%E7%89%9B%E8%84%B8%E8%AF%86%E5%88%AB_01.jpg)
+![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/%E7%89%9B%E8%84%B8%E8%AF%86%E5%88%AB_01.jpg)  
+
+
+
 我们感谢潜在读者给予的关注，祝工作开心，科研顺利，生活幸福！
 We thank the potential readers for their attention. Best wishes for you!
