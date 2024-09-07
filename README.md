@@ -12,8 +12,8 @@ Cattle Information Intelligent Acquisition Device
 - **远程监控与管理**：采集的数据可以通过网络传输至远程服务器，允许养殖场管理者随时随地监控牛只的情况，及时调整养殖策略和管理措施，提高养殖效率和利润。
 
 
-如下图a所示，该设备由[Nvidia Jetson AGX Orin](https://github.com/XingshiXu/CAAID/blob/main/Jeston_AGX.gif)、摄像头(ZED 2i)、电源、显示屏以及其他多个辅助功能模块组成。如下图b，使用者可以轻松的通过如下图c所示的用户交互界面操作系统设备终端实现牛只各类信息的手动输入或自动测量以及进行信息查看。所有的记录信息欲通过MQTT穿透上传到服务器的数据库中。这些数据将有助于农民、兽医做出更加准确的决策。
-![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/Example%20image1.jpg)
+如下图a所示，该设备由[Nvidia Jetson AGX Orin](https://github.com/XingshiXu/CAAID/blob/main/Jeston_AGX.gif)、摄像头(ZED 2i)、电源、显示屏以及其他多个辅助功能模块组成。如下图b，使用者可以轻松的通过如下图c所示的用户交互界面操作系统设备终端实现牛只各类信息的手动输入或自动测量以及进行信息查看。所有的记录信息欲通过MQTT穿透上传到服务器的数据库中。这些数据将有助于农民、兽医做出更加准确的决策。  
+![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/Example%20image1.jpg)  
 
 
 ----------
@@ -59,10 +59,12 @@ u
 -----
 相关论文：  
 Boosting cattle face recognition under uncontrolled scenes by embedding enhancement and optimization  
+https://doi.org/10.1016/j.asoc.2024.111951  
+[论文链接](https://doi.org/10.1016/j.asoc.2024.111951)  
 
 ![示例图片1](https://github.com/XingshiXu/CAAID/blob/main/%E7%89%9B%E8%84%B8%E8%AF%86%E5%88%AB_01.jpg)  
 
 
 
-我们感谢潜在读者给予的关注，祝工作开心，科研顺利，生活幸福！
-We thank the potential readers for their attention. Best wishes for you!
+我们感谢潜在读者给予的关注，祝工作开心，科研顺利，生活幸福！  
+We thank the potential readers for their attention. Best wishes for you!  
