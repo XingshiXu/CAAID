@@ -49,7 +49,9 @@ Cattle Information Intelligent Acquisition Device
 ![体尺界面]([https://github.com/XingshiXu/
 
 ---------
+跛行检测界面
 
+![跛行检测界面](https://github.com/XingshiXu/CAAID/blob/main/%E8%B7%9B%E8%A1%8C%E6%A3%80%E6%B5%8B.gif)
 
 
 u
